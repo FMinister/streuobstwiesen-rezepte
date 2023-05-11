@@ -5,7 +5,7 @@ date: 2023-04-08
 lastmod: 2023-04-09
 description: "In a hurry, Vegan minced meat chili"
 tags: ["vegan", "chili", "nudeln"]
-thumbnail: /7.png
+thumbnail: /streuobstwiesen-rezepte/7.png
 ---
 
 Quick Chili.

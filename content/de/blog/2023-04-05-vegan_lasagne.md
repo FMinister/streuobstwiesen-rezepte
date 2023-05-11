@@ -4,7 +4,7 @@ title: "Vegane Blumentopf-Lasagne"
 date: 2023-04-05
 description: "Vegane Blumentopf-Lasagne, mit viel Liebe gestaltet"
 tags: ["vegan", "lasagne"]
-thumbnail: /5.png
+thumbnail: /streuobstwiesen-rezepte/5.png
 ---
 
 Dieses leckere Rezept habe ich von meiner Oma.
