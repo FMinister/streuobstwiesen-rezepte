@@ -5,7 +5,7 @@ date: 2023-04-08
 lastmod: 2023-04-09
 description: "Auf die Schnelle, Veganes Hackfleisch Chili"
 tags: ["vegan", "chili", "nudeln"]
-thumbnail: ../7.png
+thumbnail: /7.png
 ---
 
 Schnelles Chili.
@@ -37,3 +37,11 @@ Schnelles Chili.
 6. Mit frischem Koriander oder Petersilie garnieren und servieren.
 
 Dieses vegane Hackfleisch Chili ist ein wunderbares Beispiel dafür, wie man köstliche Gerichte zubereiten kann, die voller Geschmack und Texturen sind, ohne tierische Produkte zu verwenden. Das vegane Hackfleisch sorgt für die nötige Proteinquelle und gibt dem Gericht eine fleischige Textur. Das Chili ist perfekt als Hauptgericht und kann auch auf Tortilla-Chips oder Reis serviert werden. Guten Appetit!
+
+{{< css.inline >}}
+
+<style>
+.canon { background: white; width: 100%; height: auto; }
+</style>
+
+{{< /css.inline >}}

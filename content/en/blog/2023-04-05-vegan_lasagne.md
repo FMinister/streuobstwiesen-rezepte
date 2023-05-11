@@ -4,7 +4,7 @@ title: "Vegan flower pot lasagna"
 date: 2023-04-05
 description: "Vegan flower pot lasagna designed with love"
 tags: ["vegan", "lasagne"]
-thumbnail: ../5.png
+thumbnail: /5.png
 ---
 
 I got this delicious recipe from my grandma.
