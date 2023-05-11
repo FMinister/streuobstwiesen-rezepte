@@ -7,7 +7,7 @@ DefaultContentLanguage = "de"
 DefaultContentLanguageInSubdir = true
 [languages]
   [languages.en]
-    baseurl = "https://fminister.github.io/streuobstwiesen-rezepte/en"
+    baseurl = "https://fminister.github.io/streuobstwiesen-rezepte/"
     contentDir = "content/en" #English
     weight = 2
     languageName = "English"
@@ -34,7 +34,7 @@ DefaultContentLanguageInSubdir = true
         weight = 3
 
   [languages.de]
-    baseurl = "https://fminister.github.io/streuobstwiesen-rezepte/de"
+    baseurl = "https://fminister.github.io/streuobstwiesen-rezepte/"
     contentDir = "content/de" # Deutsch
     weight = 2
     languageName = "Deutsch"
