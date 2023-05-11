@@ -5,7 +5,7 @@ date: 2023-04-08
 lastmod: 2023-04-09
 description: "Auf die Schnelle, Veganes Hackfleisch Chili"
 tags: ["vegan", "chili", "nudeln"]
-thumbnail: /streuobstwiesen-rezepte/7.png
+thumbnail: /7.png
 ---
 
 Schnelles Chili.

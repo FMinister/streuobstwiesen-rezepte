@@ -1,4 +1,4 @@
-baseurl = "https://fminister.github.io"
+baseurl = "https://fminister.github.io/streuobstwiesen-rezepte"
 metaDataFormat = "yaml"
 title = "Streuobswiesen Rezepte"
 theme = "blist"
@@ -15,8 +15,8 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Delicious recipes, mjammjam"
       introSubtitle = "Here are delicious recipe ideas for everyday life, with fruits that come from meadow orchards."
-      introPhoto = "/streuobstwiesen-rezepte/1.png"
-      logo = "/streuobstwiesen-rezepte/apple.png"
+      introPhoto = "/1.png"
+      logo = "/apple.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -41,8 +41,8 @@ DefaultContentLanguageInSubdir = true
     [languages.de.params]
       introTitle = "Lecker Rezepte, mjammjam"
       introSubtitle = "Hier gibt es leckere Rezeptideen für den Alltag, mit Früchten, die von Streuobstwiesen kommen."
-      introPhoto = "/streuobstwiesen-rezepte/1.png"
-      logo = "/streuobstwiesen-rezepte/apple.png"
+      introPhoto = "/1.png"
+      logo = "/apple.png"
     [[languages.de.menu.main]]
         name = "Blog"
         url = "blog"
