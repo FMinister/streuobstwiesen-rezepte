@@ -1,4 +1,4 @@
-baseurl = "https://fminister.github.io/streuobstwiesen-rezepte"
+baseurl = "https://fminister.github.io/streuobstwiesen-rezepte/"
 metaDataFormat = "yaml"
 title = "Streuobswiesen Rezepte"
 theme = "blist"
