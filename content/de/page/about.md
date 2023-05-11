@@ -1,5 +1,5 @@
 ---
-author: Katheryn Fox
+author: Johannes Leyrer
 title: Über mich
 date: 2021-07-15
 description:
